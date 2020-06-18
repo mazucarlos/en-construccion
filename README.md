@@ -1,2 +1,2 @@
-# página en contrucción
+# en-construccion
 [![](prubaImagen/Con-Logo.png)](#)
